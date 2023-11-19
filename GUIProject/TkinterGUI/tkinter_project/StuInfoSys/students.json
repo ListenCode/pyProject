@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sam",
+    "math": 98,
+    "chinese": 100,
+    "english": 94
+  },
+  {
+    "name": "Ami",
+    "math": 70,
+    "chinese": 56,
+    "english": 64
+  },
+  {
+    "name": "DaMing",
+    "math": 93,
+    "chinese": 78,
+    "english": 64
+  }
+]
